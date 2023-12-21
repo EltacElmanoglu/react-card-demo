@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-card-demo/static/css/main.0551e374.css",
+    "main.js": "/react-card-demo/static/js/main.3d1ee7ef.js",
+    "static/js/787.998b6776.chunk.js": "/react-card-demo/static/js/787.998b6776.chunk.js",
+    "static/media/ccsharp.png": "/react-card-demo/static/media/ccsharp.f26a2bfd94883d8804b9.png",
+    "static/media/bootstrap5.png": "/react-card-demo/static/media/bootstrap5.5fcccfc349632dc75191.png",
+    "static/media/kompleweb.jpg": "/react-card-demo/static/media/kompleweb.5a75ec703847234e4e9d.jpg",
+    "static/media/angular.jpg": "/react-card-demo/static/media/angular.1671348309817be31d87.jpg",
+    "index.html": "/react-card-demo/index.html",
+    "main.0551e374.css.map": "/react-card-demo/static/css/main.0551e374.css.map",
+    "main.3d1ee7ef.js.map": "/react-card-demo/static/js/main.3d1ee7ef.js.map",
+    "787.998b6776.chunk.js.map": "/react-card-demo/static/js/787.998b6776.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0551e374.css",
+    "static/js/main.3d1ee7ef.js"
+  ]
+}
